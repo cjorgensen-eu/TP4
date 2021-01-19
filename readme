@@ -1,0 +1,7 @@
+Readme :
+
+Ce dépot contient quatre scripts rangés dans le dossier "scripts" :
+- list_users.sh : liste les utilisateurs enregistrés
+- list_groups.sh : liste les groupes enregistrés
+- list_packages : liste les paquets installés
+- git_install :: crée une installation de git depuis les sources
